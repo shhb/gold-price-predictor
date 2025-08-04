@@ -3,3 +3,5 @@ boto3
 joblib
 xgboost
 sagemaker
+scikit-learn
+
