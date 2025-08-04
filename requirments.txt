@@ -2,4 +2,4 @@ pandas
 boto3
 joblib
 xgboost
-
+sagemaker
